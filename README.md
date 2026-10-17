@@ -4,7 +4,7 @@ Weather app for 8 Indian cities with current weather and 7 day forecast.
 
 Built with React + React Router (Vite).
 
-**Live link:** _add vercel link here_
+**Live link:** https://ps5-weather-now-anshu.vercel.app
 
 ## API used
 [Open-Meteo](https://open-meteo.com/) (free, no API key)
@@ -22,10 +22,9 @@ https://api.open-meteo.com/v1/forecast?latitude=:lat&longitude=:lon&current=temp
 | `*` | Page not found |
 
 ## Screenshots
-![Cities](<img width="1470" height="956" alt="Screenshot 2026-10-17 at 10 29 39 PM" src="https://github.com/user-attachments/assets/71e0b4f4-97a7-4648-a79b-e0ec2083c442" />
-)
-![Weather](<img width="1470" height="956" alt="Screenshot 2026-10-17 at 10 29 29 PM" src="https://github.com/user-attachments/assets/51356d25-6f26-48d6-a8e8-be934425dda1" />
-)
+<img width="1470" alt="Cities" src="https://github.com/user-attachments/assets/71e0b4f4-97a7-4648-a79b-e0ec2083c442" />
+
+<img width="1470" alt="Weather" src="https://github.com/user-attachments/assets/51356d25-6f26-48d6-a8e8-be934425dda1" />
 
 ## Run locally
 ```
